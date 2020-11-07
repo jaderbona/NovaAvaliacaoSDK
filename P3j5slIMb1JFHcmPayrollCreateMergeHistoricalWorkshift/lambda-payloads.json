@@ -1,0 +1,23 @@
+{
+    "P3j5slIMb1JFHcmPayrollCreateMergeHistoricalWorkshift": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "Bearer 5b8504a0294a7e0be9fb6b73dc4926ce"
+            },
+            "body": {
+                "id": "1FFEE5304DB1562A8FBCC5B6836C3C88",
+                "dateWhen": "2020-02-01",
+                "employee": {
+                    "id": "8A1C03BDF4704D1F962311EE3BABB646"
+                },
+                "workshiftId": {
+                    "id": "AED89D23530C4CE7838F59DFE164A225"
+                },
+                "workshiftGroupId": {
+                    "id": "7ED70B4A0D294A58AF38914F8DD32EE1"
+                },
+                "custom": {}
+            }
+        }
+    }
+}
